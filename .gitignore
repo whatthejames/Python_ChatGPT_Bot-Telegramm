@@ -1,4 +1,4 @@
-.env
+
 vendor
 node_modules
 test_Backup_chatGPT_telegram.py
